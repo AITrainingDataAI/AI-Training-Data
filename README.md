@@ -39,4 +39,16 @@ AITrainingData.ai helps companies improve AI model performance through:
 
 ## 📚 Learn More
 
+---
+
+## 👤 Author
+
+Built by **[Rhonda Coleman Albazie ](https://aitrainingdata.ai)**  
+Founder, AI Training Data
+
+Helping companies build better AI through:
+- dataset engineering  
+- RLHF systems  
+- synthetic data pipelines
+
 👉 [AITrainingData.ai](https://aitrainingdata.ai)
